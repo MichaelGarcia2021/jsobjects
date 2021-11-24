@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin: 2em;
+}
+
+.center-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-one , .card-two , .card-three {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.img_css {
+    width: 15em;
+    height: 10em;
+    
+}
+
+.btn_css {
+    margin: 1em;
+}
